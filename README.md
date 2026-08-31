@@ -402,7 +402,4 @@ text-to-image-report/
 
 <div align="center">
 
-r creative and practical applications.
 
-
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
